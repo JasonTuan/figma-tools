@@ -1,0 +1,52 @@
+[
+  {
+    "fileName": "MudBlazor Default Theme.Default Light.tokens.json",
+    "body": {
+      "--mud-palette-primary-text": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "--mud-palette-secondary": {
+        "$type": "color",
+        "$value": "#ff4081"
+      },
+      "--mud-palette-white": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "--mud-palette-primary": {
+        "$type": "color",
+        "$value": "#594ae2"
+      },
+      "--mud-palette-black": {
+        "$type": "color",
+        "$value": "#272c34"
+      }
+    }
+  },
+  {
+    "fileName": "MudBlazor Default Theme.Default Dark.tokens.json",
+    "body": {
+      "--mud-palette-primary-text": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "--mud-palette-secondary": {
+        "$type": "color",
+        "$value": "#ff4081"
+      },
+      "--mud-palette-white": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "--mud-palette-primary": {
+        "$type": "color",
+        "$value": "#776be7"
+      },
+      "--mud-palette-black": {
+        "$type": "color",
+        "$value": "#27272f"
+      }
+    }
+  }
+]

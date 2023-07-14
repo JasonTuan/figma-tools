@@ -1,0 +1,118 @@
+4px	--mud-default-border-radius
+	--mud-drawer-width
+56px	--mud-drawer-mini-width-left
+56px	--mud-drawer-mini-width-right
+240px	--mud-drawer-width-left
+240px	--mud-drawer-width-right
+320px	--mud-drawer-height-top
+320px	--mud-drawer-height-bottom
+	--mud-appbar-min-height
+64px	--mud-appbar-height
+	
+Default	CSS Variable
+	
+Roboto, Helvetica, Arial, sans-serif	--mud-typography-default-family
+400	--mud-typography-default-weight
+.875rem	--mud-typography-default-size
+1.43	--mud-typography-default-lineheight
+.01071em	--mud-typography-default-letterspacing
+none	--mud-typography-default-text-transform
+	
+	--mud-typography-h1-family
+300	--mud-typography-h1-weight
+6rem	--mud-typography-h1-size
+1.167	--mud-typography-h1-lineheight
+-.01562em	--mud-typography-h1-letterspacing
+none	--mud-typography-h1-text-transform
+	
+	--mud-typography-h2-family
+300	--mud-typography-h2-weight
+3.75rem	--mud-typography-h2-size
+1.2	--mud-typography-h2-lineheight
+-.00833em	--mud-typography-h2-letterspacing
+none	--mud-typography-h2-text-transform
+	
+	--mud-typography-h3-family
+400	--mud-typography-h3-weight
+3rem	--mud-typography-h3-size
+1.167	--mud-typography-h3-lineheight
+0	--mud-typography-h3-letterspacing
+none	--mud-typography-h3-text-transform
+	
+	--mud-typography-h4-family
+400	--mud-typography-h4-weight
+2.125rem	--mud-typography-h4-size
+1.235	--mud-typography-h4-lineheight
+.00735em	--mud-typography-h4-letterspacing
+none	--mud-typography-h4-text-transform
+	
+	--mud-typography-h5-family
+400	--mud-typography-h5-weight
+1.5rem	--mud-typography-h5-size
+1.334	--mud-typography-h5-lineheight
+0	--mud-typography-h5-letterspacing
+none	--mud-typography-h5-text-transform
+	
+	--mud-typography-h6-family
+500	--mud-typography-h6-weight
+1.25rem	--mud-typography-h6-size
+1.6	--mud-typography-h6-lineheight
+.0075em	--mud-typography-h6-letterspacing
+none	--mud-typography-h6-text-transform
+	
+	--mud-typography-subtitle1-family
+400	--mud-typography-subtitle1-weight
+1rem	--mud-typography-subtitle1-size
+1.75	--mud-typography-subtitle1-lineheight
+.00938em	--mud-typography-subtitle1-letterspacing
+none	--mud-typography-subtitle1-text-transform
+	
+	--mud-typography-subtitle2-family
+500	--mud-typography-subtitle2-weight
+.875rem	--mud-typography-subtitle2-size
+1.57	--mud-typography-subtitle2-lineheight
+.00714em	--mud-typography-subtitle2-letterspacing
+none	--mud-typography-subtitle2-text-transform
+	
+	--mud-typography-body1-family
+400	--mud-typography-body1-weight
+1rem	--mud-typography-body1-size
+1.5	--mud-typography-body1-lineheight
+.00938em	--mud-typography-body1-letterspacing
+none	--mud-typography-body1-text-transform
+	
+	--mud-typography-body2-family
+400	--mud-typography-body2-weight
+.875rem	--mud-typography-body2-size
+1.43	--mud-typography-body2-lineheight
+.01071em	--mud-typography-body2-letterspacing
+none	--mud-typography-body2-text-transform
+	
+	--mud-typography-button-family
+500	--mud-typography-button-weight
+.875rem	--mud-typography-button-size
+1.75	--mud-typography-button-lineheight
+.02857em	--mud-typography-button-letterspacing
+uppercase	--mud-typography-button-text-transform
+	
+	--mud-typography-caption-family
+400	--mud-typography-caption-weight
+.75rem	--mud-typography-caption-size
+1.66	--mud-typography-caption-lineheight
+.03333em	--mud-typography-caption-letterspacing
+none	--mud-typography-caption-text-transform
+	
+	--mud-typography-overline-family
+400	--mud-typography-overline-weight
+.75rem	--mud-typography-overline-size
+2.66	--mud-typography-overline-lineheight
+.08333em	--mud-typography-overline-letterspacing
+none	--mud-typography-overline-text-transform
+	
+Default	CSS Variable
+1100	--mud-zindex-drawer
+1200	--mud-zindex-popover
+1300	--mud-zindex-appbar
+1400	--mud-zindex-dialog
+1500	--mud-zindex-snackbar
+1600	--mud-zindex-tooltip

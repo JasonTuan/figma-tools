@@ -1,0 +1,63 @@
+#272c34ff	#27272fff	--mud-palette-black
+#ffffffff		--mud-palette-white
+#594ae2ff	#776be7ff	--mud-palette-primary
+#ffffffff		--mud-palette-primary-text
+#ff4081ff		--mud-palette-secondary
+#ffffffff		--mud-palette-secondary-text
+#1ec8a5ff		--mud-palette-tertiary
+#ffffffff		--mud-palette-tertiary-text
+#2196f3ff	#3299ffff	--mud-palette-info
+#ffffffff		--mud-palette-info-text
+#00c853ff	#0bba83ff	--mud-palette-success
+#ffffffff		--mud-palette-success-text
+#ff9800ff	#ffa800ff	--mud-palette-warning
+#ffffffff		--mud-palette-warning-text
+#f44336ff	#f64e62ff	--mud-palette-error
+#ffffffff		--mud-palette-error-text
+#424242ff	#27272fff	--mud-palette-dark
+#ffffffff		--mud-palette-dark-text
+#424242ff	#ffffffb2	--mud-palette-text-primary
+#00000089	#ffffff7f	--mud-palette-text-secondary
+#00000060	#ffffff33	--mud-palette-text-disabled
+#00000089	#adadb1ff	--mud-palette-action-default
+#00000042	#ffffff42	--mud-palette-action-disabled
+#0000001e	#ffffff1e	--mud-palette-action-disabled-background
+#ffffffff	#32333dff	--mud-palette-background
+#f5f5f5ff	#27272fff	--mud-palette-background-grey
+#ffffffff	#373740ff	--mud-palette-surface
+#ffffffff	#27272fff	--mud-palette-drawer-background
+#424242ff	#ffffff7f	--mud-palette-drawer-text
+#616161ff	#ffffff7f	--mud-palette-drawer-icon
+#594ae2ff	#27272fff	--mud-palette-appbar-background
+#ffffffff	#ffffffb2	--mud-palette-appbar-text
+#0000001e	#ffffff1e	--mud-palette-lines-default
+#bdbdbdff	#ffffff4c	--mud-palette-lines-inputs
+#e0e0e0ff	#ffffff1e	--mud-palette-table-lines
+#00000005	#ffffff33	--mud-palette-table-striped
+#0000000a		--mud-palette-table-hover
+#e0e0e0ff	#ffffff1e	--mud-palette-divider
+#000000cc	#ffffff0f	--mud-palette-divider-light
+rgb(62,44,221)	rgb(90,75,226)	--mud-palette-primary-darken
+rgb(118,106,231)	rgb(151,141,236)	--mud-palette-primary-lighten
+rgb(255,31,105)		--mud-palette-secondary-darken
+rgb(255,102,153)		--mud-palette-secondary-lighten
+rgb(25,169,140)		--mud-palette-tertiary-darken
+rgb(42,223,187)		--mud-palette-tertiary-lighten
+rgb(12,128,223)	rgb(10,133,255)	--mud-palette-info-darken
+rgb(71,167,245)	rgb(92,173,255)	--mud-palette-info-lighten
+rgb(0,163,68)	rgb(9,154,108)	--mud-palette-success-darken
+rgb(0,235,98)	rgb(13,222,156)	--mud-palette-success-lighten
+rgb(214,129,0)	rgb(214,143,0)	--mud-palette-warning-darken
+rgb(255,167,36)	rgb(255,182,36)	--mud-palette-warning-lighten
+rgb(242,28,13)	rgb(244,47,70)	--mud-palette-error-darken
+rgb(246,96,85)	rgb(248,119,134)	--mud-palette-error-lighten
+rgb(46,46,46)	rgb(23,23,28)	--mud-palette-dark-darken
+rgb(87,87,87)	rgb(56,56,67)	--mud-palette-dark-lighten
+0.06		--mud-palette-hover-opacity
+#9E9E9E		--mud-palette-gray-default
+#BDBDBD		--mud-palette-gray-light
+#E0E0E0		--mud-palette-gray-lighter
+#757575		--mud-palette-gray-dark
+#616161		--mud-palette-gray-darker
+rgba(33,33,33,0.4980392156862745)		--mud-palette-overlay-dark
+rgba(255,255,255,0.4980392156862745)		--mud-palette-overlay-light

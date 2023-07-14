@@ -1,0 +1,21 @@
+{
+    "name": "jasontuan/figma_import",
+    "description": "Figma import tools",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jasontuan\\FigmaImport\\": "src/"
+        },
+        "files": [
+            "./src/Services/Constants.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Jason Tuan Nguyen",
+            "email": "tuan.nguyen@bliksund.com"
+        }
+    ],
+    "require": {}
+}
